@@ -1,0 +1,9 @@
+Fire Emblem 6 World Map Converter by Seinu Fireflower
+
+A word of note about image format, the script supports various image formats(those that pil supports).
+I will not list the supported formats however both BMP and PNG are supported both for input and output.
+These would be the most likely used for insertion(atleast for Rom Hacking).
+
+Please check the pil documentation for other supported formats!
+
+Get Pil here http://www.pythonware.com/products/pil/
